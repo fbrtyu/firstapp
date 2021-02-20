@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\ADMIN\source\repos\ConsoleApplication2\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="OutPutWordsName.InPutWords" Duration="1" />
+    <TestDuration Test="OutPutWordsTest.OutPutWordsTest" Duration="1" />
+    <TestDuration Test="OutPutWords.OutPutWordsTest" Duration="1" />
+    <TestDuration Test="OutPutWords.OutPutWords" Duration="1" />
+    <TestDuration Test="ff.ff" Duration="1" />
+    <TestDuration Test="OutPutWordsTest.OutPutWords" Duration="1" />
+    <TestDuration Test="OutPutWordsTest.OutPutWordsName" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
